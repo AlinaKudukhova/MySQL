@@ -1,9 +1,9 @@
 # MySQL
 
 ### Требования:  
-1. Скачать дампы базы данных Hogwarts
-2. Осуществите импорт таблиц, используя Workbench
-3. Выполните задания 
+1. Скачать дампы базы данных [Hogwarts](<https://drive.google.com/drive/u/0/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB>)
+2. Осуществить импорт таблиц, используя Workbench
+3. Выполнить задания 
 
 ### Примеры запросов:
 
